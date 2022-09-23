@@ -1,0 +1,30 @@
+Online Electronic Store
+There are 3 users who can access the application,
+1.	Admin (only one admin can be there)
+2.	Employee
+3.	User/Customer
+The application should allow the user to register with,
+1.	Email
+2.	Username
+3.	Password
+4.	Role (user/employee)
+User needs to log in and can perform the following functions as per their role/privilege,
+1.	User/Customer
+a.	View products
+b.	Search product
+c.	Buy product
+d.	Log out
+2.	Admin
+a.	View products
+b.	View employee
+c.	Add new employee
+d.	Add new product
+e.	Remove product
+f.	Remove employee
+g.	Log out
+3.	Employee
+a.	View products
+b.	Ship a product
+c.	Update quantity of a product
+d.	logout
+
